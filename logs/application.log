@@ -12,3 +12,7 @@
 2023-01-21 18:16:18 INFO  Main:12 - Work completed successfully
 2023-01-21 18:16:46 DEBUG Main:10 - Starting doSomeWork method
 2023-01-21 18:16:46 INFO  Main:12 - Work completed successfully
+2023-01-21 20:31:21 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 20:31:21 INFO  Main:12 - Work completed successfully
+2023-01-21 20:32:20 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 20:32:20 INFO  Main:12 - Work completed successfully
