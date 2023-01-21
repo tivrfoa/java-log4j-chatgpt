@@ -1,0 +1,14 @@
+2023-01-21 17:57:16 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 17:57:16 INFO  Main:12 - Work completed successfully
+2023-01-21 17:59:31 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 17:59:31 INFO  Main:12 - Work completed successfully
+2023-01-21 17:59:43 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 17:59:43 INFO  Main:12 - Work completed successfully
+2023-01-21 18:00:21 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 18:00:21 INFO  Main:12 - Work completed successfully
+2023-01-21 18:06:44 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 18:06:44 INFO  Main:12 - Work completed successfully
+2023-01-21 18:16:18 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 18:16:18 INFO  Main:12 - Work completed successfully
+2023-01-21 18:16:46 DEBUG Main:10 - Starting doSomeWork method
+2023-01-21 18:16:46 INFO  Main:12 - Work completed successfully
