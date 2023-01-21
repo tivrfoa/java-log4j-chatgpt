@@ -1,0 +1,4 @@
+2023-01-21 20:09:06.619 [org.acme.Main.main()] DEBUG org.acme.Main - Starting doSomeWork method
+2023-01-21 20:09:06.621 [org.acme.Main.main()] INFO  org.acme.Main - Work completed successfully
+2023-01-21 20:10:39.449 [org.acme.Main.main()] DEBUG org.acme.Main - Starting doSomeWork method
+2023-01-21 20:10:39.452 [org.acme.Main.main()] INFO  org.acme.Main - Work completed successfully
